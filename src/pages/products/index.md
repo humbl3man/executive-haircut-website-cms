@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Welcome
-image: /img/products-full-width.jpg
+image: /img/hero2.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
